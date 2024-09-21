@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-NathanA
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning C!
+- 👀 I am interested in everything!
+- 🌱 I am currently learning C!
 - 📫 How to reach me: email me! --> nathanalvares2706@gmail.com
 
 
