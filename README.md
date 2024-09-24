@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-NathanA
+- 👋 Hi, I’m Nathan.
 - 👀 I am interested in everything!
 - 🌱 I am currently learning C!
 - 📫 How to reach me: email me! --> nathanalvares2706@gmail.com
